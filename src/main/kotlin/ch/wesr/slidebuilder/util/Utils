@@ -1,0 +1,4 @@
+
+public fun ToolSet.asTools(json: Json = Json): List<ToolFromCallable> {
+    return this::class.asTools(json = json, thisRef = this)
+}
