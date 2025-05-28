@@ -1,6 +1,9 @@
 # slide-builder
 
 
+## Docker
+`docker-compose.yaml` 
+
 
 ## Model
 ```
